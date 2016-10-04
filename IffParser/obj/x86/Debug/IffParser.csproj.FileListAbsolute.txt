@@ -1,4 +1,0 @@
-C:\Projects_CSharp\IFF_Parser\IffParser\bin\Debug\IffParser.dll
-C:\Projects_CSharp\IFF_Parser\IffParser\bin\Debug\IffParser.pdb
-C:\Projects_CSharp\IFF_Parser\IffParser\obj\x86\Debug\IffParser.dll
-C:\Projects_CSharp\IFF_Parser\IffParser\obj\x86\Debug\IffParser.pdb

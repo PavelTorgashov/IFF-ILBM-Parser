@@ -1,7 +1,0 @@
-C:\Projects_CSharp\IFF_Parser\Tester\bin\Debug\Tester.exe
-C:\Projects_CSharp\IFF_Parser\Tester\bin\Debug\Tester.pdb
-C:\Projects_CSharp\IFF_Parser\Tester\bin\Debug\IffParser.dll
-C:\Projects_CSharp\IFF_Parser\Tester\bin\Debug\IffParser.pdb
-C:\Projects_CSharp\IFF_Parser\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
-C:\Projects_CSharp\IFF_Parser\Tester\obj\x86\Debug\Tester.exe
-C:\Projects_CSharp\IFF_Parser\Tester\obj\x86\Debug\Tester.pdb
