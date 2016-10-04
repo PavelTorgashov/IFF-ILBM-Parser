@@ -1,0 +1,4 @@
+C:\Projects_CSharp\IFF_Converter\Iff2Jpg\Iff2Jpg\bin\Release\Iff2Jpg.exe
+C:\Projects_CSharp\IFF_Converter\Iff2Jpg\Iff2Jpg\bin\Release\Iff2Jpg.pdb
+C:\Projects_CSharp\IFF_Converter\Iff2Jpg\Iff2Jpg\obj\x86\Release\Iff2Jpg.exe
+C:\Projects_CSharp\IFF_Converter\Iff2Jpg\Iff2Jpg\obj\x86\Release\Iff2Jpg.pdb
